@@ -22,10 +22,6 @@ In this **POS System** has all the functionalities of a POS system, like custome
   
   Instead of downloading and placing the jars manually in the project, we can use maven to automate the process. We can define the dependency in the **pom.xml (Project object model)**. Maven requires internet to download the jars, which is a one time process.
 
-## Database
-
-Find Database Configuration From src/main/java/lk.ijse.dep.pos.db.DBConnection and set your Database name,user name and password.
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
